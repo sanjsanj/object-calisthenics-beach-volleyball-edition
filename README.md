@@ -1,9 +1,12 @@
 # Object Calisthenics: Beach Volleyball Edition
+<img src=https://www.hwhc.co.uk/wp-content/uploads/2015/07/21_cover_image_small_BigBeachVolleyball.jpg width="300"></img>
+> "I love beach volleyball"  
+  >\- Uncle Bob    
 
-"I love beach volleyball"
-  - Uncle Bob
+> *Calisthenics*   
+  gymnastic exercises to achieve bodily fitness and grace of movement.
 
-Welcome to *Object Calisthenics*, beach volleyball edition. This session is about modeling the domain of a beach volleyball tournament while adhering to strict OOP practices. Check out [this](http://williamdurand.fr/2013/06/03/object-calisthenics/#tl-dr) discussion for a lengthy explanation but focus on the following:  
+Welcome to *Object Calisthenics*, beach volleyball edition. This session is about modeling the domain of a beach volleyball league while adhering to strict OOP practices. Check out [this](http://williamdurand.fr/2013/06/03/object-calisthenics/#tl-dr) discussion for a lengthy explanation but focus on the following:  
 
 1. Only One Level Of Indentation Per Method
 2. Don't Use The ELSE Keyword
@@ -14,11 +17,13 @@ Welcome to *Object Calisthenics*, beach volleyball edition. This session is abou
 7. No Classes With More Than Two Instance Variables
 8. Don't directly expose internal state (preserve encapsulation).
 
+You may use any language or testing framework you like.
+
 # Specification
 
-In order to play with more people
-As a captain
-I want to create a team
+> In order to play with more people    
+> As a captain    
+> I want to create a team    
 
 Acceptance criteria:
 
@@ -28,18 +33,18 @@ Acceptance criteria:
 
 ***************************
 
-In order to play in a match
-As a player
-I want to confirm my availabilty
+> In order to play in a match    
+> As a player    
+> I want to confirm my availability    
 
 Acceptance criteria:
 - A player can't join in a match, if she has been suspended. The suspension can be from 1 to 3 games.
 
 ***************************
 
-In order to create a more flexible team
-As a captain
-I want to register a 'ringer' in my team
+> In order to create a more flexible team    
+> As a captain    
+> I want to register a 'ringer' in my team    
 
 Acceptance criteria:
 
@@ -49,11 +54,10 @@ Acceptance criteria:
 
 ***************************
 
-In order to play against another team
-As a captain
-I want to check that my team is ready
+> In order to play against another team    
+> As a captain    
+> I want to check that my team is ready    
 
 Acceptance criteria:
-
 - Minimum 5 players available, including at least 2 Ladies or Men.
 - Ringers can be used in order to field a full team, but only 2 per match.
