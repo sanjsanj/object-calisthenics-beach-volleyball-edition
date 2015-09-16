@@ -20,7 +20,7 @@ Welcome to *Object Calisthenics*, beach volleyball edition. This session is abou
 You may use any language or testing framework you like.
 
 # Specification
-
+= 1 =
 > In order to play with more people    
 > As a captain    
 > I want to create a team    
@@ -32,7 +32,7 @@ Acceptance criteria:
 - A player can be part of only one team in the league.
 
 ***************************
-
+= 2 =
 > In order to play in a match    
 > As a player    
 > I want to confirm my availability    
@@ -41,7 +41,7 @@ Acceptance criteria:
 - A player can't join in a match, if she has been suspended. The suspension can be from 1 to 3 games.
 
 ***************************
-
+= 3 =
 > In order to create a more flexible team    
 > As a captain    
 > I want to register a 'ringer' in my team    
@@ -53,7 +53,7 @@ Acceptance criteria:
 - A ringer can be part of only one team in the league.
 
 ***************************
-
+= 4 =
 > In order to play against another team    
 > As a captain    
 > I want to check that my team is ready    
